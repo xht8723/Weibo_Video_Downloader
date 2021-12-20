@@ -1,2 +1,4 @@
 # Weibo_Video_Downloader
-A chrome extension that downloads weibo videos.
+
+一个用来下载微博视频的chrome插件。
+
