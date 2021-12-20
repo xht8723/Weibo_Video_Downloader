@@ -17,3 +17,6 @@
 在新页面点击插件即可。
 
 ![image](https://user-images.githubusercontent.com/15156436/146770798-5e48c41c-5090-4103-aec7-fa422332fe8c.png)
+
+
+![image](https://user-images.githubusercontent.com/15156436/146771388-e3f7045d-2c75-48c3-a0c5-a2044e4ddb43.png)
